@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on Bee Whimzy</title>
+    <link>https://example.org/portfolio/</link>
+    <description>Recent content in Portfolios on Bee Whimzy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;2017 Bee Whimzy</copyright>
+    <lastBuildDate>Sat, 17 Jun 2017 14:08:12 -0600</lastBuildDate>
+    
+	<atom:link href="https://example.org/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Flower Knit Hat</title>
+      <link>https://example.org/portfolio/hat_1/</link>
+      <pubDate>Sat, 17 Jun 2017 14:08:12 -0600</pubDate>
+      
+      <guid>https://example.org/portfolio/hat_1/</guid>
+      <description>In love with this adorable flower knit hat! Order yours today! </description>
+    </item>
+    
+    <item>
+      <title>Awesome Halter</title>
+      <link>https://example.org/portfolio/halter_1/</link>
+      <pubDate>Sat, 17 Jun 2017 14:01:58 -0600</pubDate>
+      
+      <guid>https://example.org/portfolio/halter_1/</guid>
+      <description>Swing into summer with this awesome halter! Comes in any color pattern you choose up to age 4! </description>
+    </item>
+    
+    <item>
+      <title>Campfire Inspired Bloomers</title>
+      <link>https://example.org/portfolio/bloomer_1/</link>
+      <pubDate>Thu, 15 Jun 2017 20:59:02 -0600</pubDate>
+      
+      <guid>https://example.org/portfolio/bloomer_1/</guid>
+      <description>Get your little 🐝 these campfire inspired bloomers. Perfect for when those Canadian summers finally come </description>
+    </item>
+    
+  </channel>
+</rss>
