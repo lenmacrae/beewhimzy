@@ -9,4 +9,4 @@ title = "Custom Shorts"
 
 Loving these custom made shorts for an adorable little! Can't wait to see them on him!
 
-![Custom Shorts](img/portfolio/shorts_1.jpg)
+![Custom Shorts](shorts_1.jpg)

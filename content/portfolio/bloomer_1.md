@@ -8,4 +8,4 @@ title = "Campfire Inspired Bloomers"
 +++
 
 Get your little 🐝  these campfire inspired bloomers. Perfect for when those Canadian summers finally come
-![Bloomers](img/portfolio/bloomer_1.jpg)
+![Bloomers](bloomer_1.jpg)

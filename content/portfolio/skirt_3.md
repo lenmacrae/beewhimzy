@@ -9,4 +9,4 @@ title = "Whimsical Skirt"
 
 Loving this whimsical skirt! Sea blue and super soft! DM to order, sizes 0-24m. 
 
-![Whimsical Skirt](img/portfolio/skirt_3.jpg)
+![Whimsical Skirt](skirt_3.jpg)

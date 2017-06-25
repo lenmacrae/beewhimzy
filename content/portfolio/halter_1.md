@@ -8,4 +8,4 @@ title = "Awesome Halter"
 +++
 
 Swing into summer with this awesome halter! Comes in any color pattern you choose up to age 4! 
-![Halter](img/portfolio/halter_1.jpg)
+![Halter](halter_1.jpg)

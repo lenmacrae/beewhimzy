@@ -1,4 +1,4 @@
-baseurl = "https://dqkl8gw5lnfir.cloudfront.net"
+baseurl = "http://aws-website-beewhimzy-4z5ow.s3-website-us-east-1.amazonaws.com/"
 title = "Bee Whimzy"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"

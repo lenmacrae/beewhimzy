@@ -9,4 +9,4 @@ title = "Princess Skirt"
 
 When it's your birthday and you want to be a princess 👸🏼
 
-![Princess Skirt](img/portfolio/skirt_1.jpg)
+![Princess Skirt](skirt_1.jpg)

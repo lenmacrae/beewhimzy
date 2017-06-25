@@ -9,4 +9,4 @@ title = "Relaxed Fit Romper"
 
 It's all about the relaxed fit romper this summer! Contact me to order your custom one today!
 
-![Relaxed Fit Romper](img/portfolio/romper_1.jpg)
+![Relaxed Fit Romper](romper_1.jpg)
