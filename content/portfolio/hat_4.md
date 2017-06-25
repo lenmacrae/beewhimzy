@@ -9,4 +9,4 @@ title = "Little Monkey Hat"
 
 Who doesn't want this for their little 🐵! Custom order your little bee their own today! $30.00, shipping included in Canada!
 
-![Little Monkey Hat](hat_4.jpg)
+![Little Monkey Hat](/img/portfolio/hat_4.jpg)

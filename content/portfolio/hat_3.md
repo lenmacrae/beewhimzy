@@ -9,4 +9,4 @@ title = "Cozy Knit Hat"
 
 Brrrr it's cold today! Reminded me of this whimsical cozy hat I knit for my wee 🐝! DM me if you are interested in a soft snuggly hat for your kiddo (and one to match for you!)
 
-![Cozy Knit Hat](hat_3.jpg)
+![Cozy Knit Hat](/img/portfolio/hat_3.jpg)

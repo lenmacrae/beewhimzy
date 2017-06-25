@@ -9,5 +9,4 @@ title = "Light Comfy Romper"
 
 It's romper season! Light, comfy, and way to take on and off for tired mama's. Order yours today in any color you love!
 
-![Light Comfy Romper](romper_2.jpg)
-
+![Light Comfy Romper](/img/portfolio/romper_2.jpg)

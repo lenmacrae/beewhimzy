@@ -9,4 +9,4 @@ title = "Breezy Cotton Skirt"
 
 ❤️❤❤ this breezy 100% cotton skirt! Sizes 0-3T available! Order your little 🐝s today! 
 
-![Breezy Cotton Skirt](((((((((skirt_2.jpg)
+![Breezy Cotton Skirt](/img/portfolio/skirt_2.jpg)

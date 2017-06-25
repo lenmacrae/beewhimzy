@@ -8,4 +8,4 @@ title = "Flower Knit Hat"
 +++
 
 In love with this adorable flower knit hat! Order yours today!
-![Flower Hat](hat_1.jpg)
+![Flower Hat](/img/portfolio/hat_1.jpg)

@@ -9,4 +9,4 @@ title = "Emerald Ease Romper"
 
 Emerald Ease ☀️  the perfect romper for sunshine adventures. Relaxed fit for busy bee's and easy to put on and take off for tired mamas!
 
-![Emerald Ease Romper](romper_3.jpg)
+![Emerald Ease Romper](/img/portfolio/romper_3.jpg)
