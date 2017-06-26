@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://aws-website-beewhimzy-4z5ow.s3-website-us-east-1.amazonaws.com/portfolio/hat_6/</loc>
+    <lastmod>2017-06-25T18:07:43-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://aws-website-beewhimzy-4z5ow.s3-website-us-east-1.amazonaws.com/portfolio/hat_5/</loc>
+    <lastmod>2017-06-25T18:04:08-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://aws-website-beewhimzy-4z5ow.s3-website-us-east-1.amazonaws.com/portfolio/halter_2/</loc>
+    <lastmod>2017-06-25T16:40:31-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://aws-website-beewhimzy-4z5ow.s3-website-us-east-1.amazonaws.com/portfolio/hat_4/</loc>
     <lastmod>2017-06-17T14:31:12-06:00</lastmod>
   </url>
@@ -79,7 +94,7 @@
   
   <url>
     <loc>http://aws-website-beewhimzy-4z5ow.s3-website-us-east-1.amazonaws.com/</loc>
-    <lastmod>2017-06-17T14:31:12-06:00</lastmod>
+    <lastmod>2017-06-25T18:07:43-06:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -90,7 +105,7 @@
   
   <url>
     <loc>http://aws-website-beewhimzy-4z5ow.s3-website-us-east-1.amazonaws.com/portfolio/</loc>
-    <lastmod>2017-06-17T14:31:12-06:00</lastmod>
+    <lastmod>2017-06-25T18:07:43-06:00</lastmod>
     <priority>0</priority>
   </url>
   
