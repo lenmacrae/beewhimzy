@@ -1,4 +1,4 @@
-baseurl = "http://aws-website-beewhimzy-4z5ow.s3-website-us-east-1.amazonaws.com/"
+baseurl = "http://beewhimzy.com"
 title = "Bee Whimzy"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
@@ -13,9 +13,7 @@ googleAnalytics = ""
   style = "pink"
   description = "Handcraft crochet clothes"
   copyright = "&copy;2017 Bee Whimzy"
-  sidebarAbout = [
-    "Handcrafted in Canada 🍁 Crochet clothes for your busy 🐝 and their whimsical adventures Free shipping within 🇨🇦 Email: beewhimzy@gmail.com"
-  ]
+  sidebarAbout = ["Handcrafted in Canada 🍁 Crochet clothes for your busy 🐝 and their whimsical adventures Free shipping within 🇨🇦 Email: info@beewhimzy.com"]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
      # proxy. The form makes a POST request to their servers to send the actual
@@ -45,6 +43,6 @@ googleAnalytics = ""
 
   [params.social]
   facebook      = "https://www.facebook.com/beewhimzy/"
-  email         = "beewhimzy@gmail.com"
+  email         = "info@beewhimzy.com"
   twitter       = "https://twitter.com/beewhimzy"
   instagram     = "https://www.instagram.com/beewhimzy/"
