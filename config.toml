@@ -10,7 +10,7 @@ googleAnalytics = ""
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
-  style = "sea"
+  style = "pink"
   description = "Handcraft crochet clothes"
   copyright = "&copy;2017 Bee Whimzy"
   sidebarAbout = [
