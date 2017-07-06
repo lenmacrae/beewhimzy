@@ -1,4 +1,4 @@
-baseurl = "http://beewhimzy.com"
+baseurl = "http://beewhimzy.com/"
 title = "Bee Whimzy"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
