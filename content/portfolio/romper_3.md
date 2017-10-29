@@ -3,10 +3,11 @@ date = "2017-06-17T14:25:27-06:00"
 draft = false
 image = "img/portfolio/romper_3.jpg"
 showonlyimage = true
-title = "Emerald Ease Romper"
+title = "Esmeralda Romper"
 
 +++
 
-Emerald Ease ☀️  the perfect romper for sunshine adventures. Relaxed fit for busy bee's and easy to put on and take off for tired mamas!
-
-![Emerald Ease Romper](/img/portfolio/romper_3.jpg)
+Soft, light-weight romper that has the right amount of cozy for 4 season fun. Slip-on, Slip off design to make diaper changes easier than saying Esmeralda.
+Sizes 0-2T
+$35.00
+![Esmeralda Romper](/img/portfolio/romper_3.jpg)

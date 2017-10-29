@@ -3,10 +3,12 @@ date = "2017-06-17T14:21:47-06:00"
 draft = false
 image = "img/portfolio/shorts_1.jpg"
 showonlyimage = true
-title = "Custom Shorts"
+title = "Sage Shorts"
 
 +++
 
-Loving these custom made shorts for an adorable little! Can't wait to see them on him!
+Eco-conscious yarn creates these light-weight breathable shorts with adjustable suspenders
+Sizes 0-18m
+$35.00
 
-![Custom Shorts](/img/portfolio/shorts_1.jpg)
+![Sage Shorts](/img/portfolio/shorts_1.jpg)

@@ -3,10 +3,12 @@ date = "2017-06-17T14:19:21-06:00"
 draft = false
 image = "img/portfolio/hat_2.jpg"
 showonlyimage = true
-title = "Gender Neutral Sunhat"
+title = "Avery Hat"
 
 +++
 
-Whipped up an adorable gender neutral sunhat for my little 🐝  (the stinker keeps losing all of her hats lol!) love how this cotton yarn keeps the sun out but looks and feels so light and fun!
+Eco-conscious, organic yarn woven together to make a wide brim hat perfect at protecting every little bee's eyes from the sun.
+Sizes 0-2T
+$30.00
 
-![Gender Neutral Sunhat](/img/portfolio/hat_2.jpg)
+![Avery Hat](/img/portfolio/hat_2.jpg)

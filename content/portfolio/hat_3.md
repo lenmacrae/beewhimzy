@@ -3,10 +3,12 @@ date = "2017-06-17T14:23:41-06:00"
 draft = false
 image = "img/portfolio/hat_3.jpg"
 showonlyimage = true
-title = "Cozy Knit Hat"
+title = "My Fair Isle"
 
 +++
 
-Brrrr it's cold today! Reminded me of this whimsical cozy hat I knit for my wee 🐝! DM me if you are interested in a soft snuggly hat for your kiddo (and one to match for you!)
+Custom designed winter hat that can be made for every member of your family. 
+Custom sizes available.
+$30.00
 
-![Cozy Knit Hat](/img/portfolio/hat_3.jpg)
+![My Fair Isle](/img/portfolio/hat_3.jpg)

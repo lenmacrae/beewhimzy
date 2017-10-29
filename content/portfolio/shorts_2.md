@@ -1,11 +1,13 @@
 +++
-title = "Suspender Shorts" 
+title = "Sebastian Shorts" 
 date =  2017-07-01T09:53:04-06:00
 draft = false
 image = "img/portfolio/shorts_2.jpg"
 showonlyimage = true
 +++
 
-So happy with these wonderful textured suspenders shorts! Hope the little man loves them as much as we do!
+Soft. Cozy. Adjustable waist and straps. These are a must have for any little bee's fall wardrobe.
+Sizes 0-3T
+$35.00
 
-![Suspender Shorts](/img/portfolio/shorts_2.jpg)
+![Sebastian Shorts](/img/portfolio/shorts_2.jpg)

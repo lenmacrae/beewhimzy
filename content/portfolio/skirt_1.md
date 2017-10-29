@@ -3,10 +3,12 @@ date = "2017-06-17T14:14:52-06:00"
 draft = false
 image = "img/portfolio/skirt_1.jpg"
 showonlyimage = true
-title = "Princess Skirt"
+title = "Samantha Skirt"
 
 +++
 
-When it's your birthday and you want to be a princess 👸🏼
+Whimsical skirt with adjustable waist band.
+Sizes 0-3T
+$40.00
 
-![Princess Skirt](/img/portfolio/skirt_1.jpg)
+![Samantha Skirt](/img/portfolio/skirt_1.jpg)

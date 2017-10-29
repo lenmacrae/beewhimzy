@@ -3,9 +3,12 @@ date = "2017-06-17T14:08:12-06:00"
 draft = false
 image = "img/portfolio/hat_1.jpg"
 showonlyimage = true
-title = "Flower Knit Hat"
+title = "Midnight Garden Hat"
 
 +++
 
-In love with this adorable flower knit hat! Order yours today!
-![Flower Hat](/img/portfolio/hat_1.jpg)
+Warm cozy hat with whimsical flower band, chunky yarn for those extra cold winter nights.
+Sizes 0-2T
+$25.00
+
+![Midnight Garden Hat](/img/portfolio/hat_1.jpg)

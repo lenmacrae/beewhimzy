@@ -3,10 +3,12 @@ date = "2017-06-17T13:54:03-06:00"
 draft = false
 image = "img/portfolio/romper_2.jpg"
 showonlyimage = true
-title = "Light Comfy Romper"
+title = "Rhonda Romper"
 
 +++
 
-It's romper season! Light, comfy, and way to take on and off for tired mama's. Order yours today in any color you love!
+This 1950s inspired romper is soft and cozy with an open back design that allows for 4 seasons of fun. Adjustable straps and waistband belt.
+Sizes 0-2T
+$35.00
 
-![Light Comfy Romper](/img/portfolio/romper_2.jpg)
+![Rhonda Romper](/img/portfolio/romper_2.jpg)
