@@ -6,7 +6,9 @@ image = "img/portfolio/halter_2.jpg"
 showonlyimage = true
 +++
 Eco-conscious, inspired by those southern sunsets, adjustable straps and detachable flower
+
 Sizes 0-4T
+
 $30.00
 
 ![Havana Halter](/img/portfolio/halter_2.jpg)

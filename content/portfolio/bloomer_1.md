@@ -8,7 +8,9 @@ title = "Bonfire Bloomers"
 +++
 
 Cozy, versatile bloomers
+
 Sizes 0-3T
+
 $35.00
 
 ![Bonfire Bloomers](/img/portfolio/bloomer_1.jpg)

@@ -6,6 +6,7 @@ image = "img/portfolio/hat_6.jpg"
 showonlyimage = true
 +++
 Sizes for 0-2T
+
 $25.00
 
 ![Lamb Hat](/img/portfolio/hat_6.jpg)

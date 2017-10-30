@@ -8,7 +8,9 @@ title = "Felicity Romper"
 +++
 
 Soft, light-weight romper that has the right amount of cozy for 4 season fun. Slip-on, Slip off design to make diaper changes easier than saying Felicity.
+
 Sizes 0-2T
+
 $35.00
 
 ![Felicity Romper](/img/portfolio/romper_1.jpg)

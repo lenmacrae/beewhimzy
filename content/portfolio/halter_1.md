@@ -8,7 +8,9 @@ title = "Hailey Halter"
 +++
 
 Slip-on, slip off halter with a flowy, open-back design.
+
 Sizes 0-3T
+
 $30.00
 
 ![Hailey Halter](/img/portfolio/halter_1.jpg)

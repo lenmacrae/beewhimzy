@@ -8,7 +8,9 @@ title = "My Fair Isle"
 +++
 
 Custom designed winter hat that can be made for every member of your family. 
+
 Custom sizes available.
+
 $30.00
 
 ![My Fair Isle](/img/portfolio/hat_3.jpg)

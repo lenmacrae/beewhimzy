@@ -8,7 +8,9 @@ title = "Sage Shorts"
 +++
 
 Eco-conscious yarn creates these light-weight breathable shorts with adjustable suspenders
+
 Sizes 0-18m
+
 $35.00
 
 ![Sage Shorts](/img/portfolio/shorts_1.jpg)

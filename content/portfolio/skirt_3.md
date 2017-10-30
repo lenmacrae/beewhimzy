@@ -8,7 +8,9 @@ title = "Bella Skirt"
 +++
 
 Whimsical skirt with adjustable waist band0-24m. 
+
 Sizes 0-3T
+
 $40.00
 
 ![Bella Skirt](/img/portfolio/skirt_3.jpg)

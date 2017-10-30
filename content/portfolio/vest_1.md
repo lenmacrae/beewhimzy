@@ -7,7 +7,9 @@ showonlyimage = true
 +++
 
 Light-weight, inspired by the colors of mother earth, this boho vintage vest has just the right amount of whimzy for every little bee. 
+
 Sizes for 0-3T. 
+
 $30.00
 
 ![Vintage Vest](/img/portfolio/vest_1.jpg)

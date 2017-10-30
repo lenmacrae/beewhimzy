@@ -8,7 +8,9 @@ title = "Seabreeze Skirt"
 +++
 
 An eco-conscious yarn created this light weight, coastal design.
+
 Sizes 0-3T
+
 $35.00
 
 ![Seabreeze Skirt](/img/portfolio/skirt_2.jpg)

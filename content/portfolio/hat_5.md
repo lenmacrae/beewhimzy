@@ -6,5 +6,6 @@ image = "img/portfolio/hat_5.jpg"
 showonlyimage = true
 +++
 Sizes for 0-2T
+
 $25.00
 ![Pom Pom Hat](/img/portfolio/hat_5.jpg)

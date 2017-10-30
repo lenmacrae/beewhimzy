@@ -7,7 +7,9 @@ showonlyimage = true
 +++
 
 Eco-conscious yarn was used to create this soft, breathable romper. 
+
 Sizes for 0-18 m. 
+
 $35.00
 
 ![Rosalynn Romper](/img/portfolio/jumper_1.jpg)

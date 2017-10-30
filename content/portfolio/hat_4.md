@@ -8,6 +8,7 @@ title = "Monkey Hat"
 +++
 
 Sizes for 0-2T
+
 $25.00
 
 ![Monkey Hat](/img/portfolio/hat_4.jpg)

@@ -7,7 +7,9 @@ showonlyimage = true
 +++
 
 Soft. Cozy. Adjustable waist and straps. These are a must have for any little bee's fall wardrobe.
+
 Sizes 0-3T
+
 $35.00
 
 ![Sebastian Shorts](/img/portfolio/shorts_2.jpg)

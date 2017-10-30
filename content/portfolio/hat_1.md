@@ -8,7 +8,9 @@ title = "Midnight Garden Hat"
 +++
 
 Warm cozy hat with whimsical flower band, chunky yarn for those extra cold winter nights.
+
 Sizes 0-2T
+
 $25.00
 
 ![Midnight Garden Hat](/img/portfolio/hat_1.jpg)
