@@ -13,7 +13,7 @@ googleAnalytics = ""
   style = "pink"
   description = "Handcraft crochet clothes"
   copyright = "&copy;2017 Bee Whimzy"
-  sidebarAbout = ["Handcrafted in Canada 🍁 Crochet clothes for your busy 🐝 and their whimsical adventures Free shipping within 🇨🇦 Email: info@beewhimzy.com"]
+  sidebarAbout = ["Handcrafted in Canada 🍁<br>Crochet clothes for your busy 🐝 and their whimsical adventures<br>Free shipping within 🇨🇦<br>Email: info@beewhimzy.com"]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
      # proxy. The form makes a POST request to their servers to send the actual
