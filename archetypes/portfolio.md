@@ -1,6 +1,6 @@
 +++
 title = "{{ replace .TranslationBaseName "-" " " | title }}" 
-date =  {{ .Date }}
+date =  "{{ .Date }}"
 draft = false
 image = ""
 showonlyimage = true
