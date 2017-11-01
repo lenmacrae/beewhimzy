@@ -9,4 +9,4 @@ type = ""
 +++
 Eco-conscious, super absorbent bibs. Comes in packs of 3
 
-\$35.00 
+$35.00
