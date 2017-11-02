@@ -1,6 +1,5 @@
 +++
 date = "2017-11-02T19:01:18+00:00"
-draft = true
 image = "/uploads/2017/11/02/IMG_20171018_080128_052.jpg"
 showonlyimage = true
 title = "Aviator Hat"
