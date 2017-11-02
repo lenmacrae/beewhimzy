@@ -6,7 +6,7 @@ theme = "hugo-creative-portfolio-theme"
 title = "Bee Whimzy"
 [params]
 copyright = "&copy;2017 Bee Whimzy"
-description = "Handcraft crochet clothes"
+description = "Handcrafted knit & crochet clothes"
 sidebarabout = ["Handcrafted in Canada 🍁<br>Crochet clothes for your busy 🐝 and their whimsical adventures<br>Free shipping within 🇨🇦<br>Email: info@beewhimzy.com"]
 style = "pink"
 [params.social]
