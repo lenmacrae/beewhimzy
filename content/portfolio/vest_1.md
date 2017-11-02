@@ -1,6 +1,5 @@
 +++
 date = "2017-07-06T07:09:32-06:00"
-draft = true
 image = "img/portfolio/vest_1.jpg"
 showonlyimage = true
 title = "Vintage Vest"
