@@ -31,3 +31,4 @@ fields:
   type: boolean
   hidden: false
   default: false
+- type: tag_list
