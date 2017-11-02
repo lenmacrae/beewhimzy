@@ -12,6 +12,6 @@ Soft, light weight fringed halter with an open back design. Adjustable straps fo
 
 Sizes 0-3T
 
-\$30
+$30
 
 ![](/uploads/2017/11/02/Resized_IMG_4101001_7219.jpeg)
