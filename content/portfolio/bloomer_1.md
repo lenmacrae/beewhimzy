@@ -1,12 +1,10 @@
 +++
 date = "2017-06-15T20:59:02-06:00"
-draft = false
 image = "img/portfolio/bloomer_1.jpg"
 showonlyimage = true
 title = "Bonfire Bloomers"
 
 +++
-
 Cozy, versatile bloomers
 
 Sizes 0-3T

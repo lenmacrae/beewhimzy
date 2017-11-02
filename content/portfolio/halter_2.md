@@ -1,9 +1,9 @@
 +++
-title = "Havana Halter" 
-date = 2017-06-25T16:40:31-06:00
-draft = false
+date = "2017-06-25T16:40:31-06:00"
 image = "img/portfolio/halter_2.jpg"
 showonlyimage = true
+title = "Havana Halter"
+
 +++
 Eco-conscious, inspired by those southern sunsets, adjustable straps and detachable flower
 
