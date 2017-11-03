@@ -12,4 +12,6 @@ Soft, light weight fringed halter with an open shoulder design and adjustable st
 
 Sizes 0-3T
 
-$30
+\$30
+
+![](/uploads/2017/11/03/b.jpg)
