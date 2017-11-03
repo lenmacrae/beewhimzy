@@ -4,5 +4,14 @@ draft = true
 image = ""
 showonlyimage = true
 title = "test"
+type = ""
+undefined = []
 
 +++
+this is a $22 test
+
+\$23.
+
+4$
+
+\$221
