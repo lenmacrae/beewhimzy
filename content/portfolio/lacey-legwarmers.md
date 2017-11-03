@@ -1,9 +1,8 @@
 +++
-date = "2017-11-02T18:46:03+00:00"
+date = "2017-11-02T18:46:03Z"
 image = "/uploads/2017/11/02/IMG_20171018_184915_960.jpg"
 showonlyimage = true
 title = "Lacey Legwarmers"
-type = ""
 undefined = []
 
 +++

@@ -1,9 +1,8 @@
 +++
-date = "2017-11-02T18:49:58+00:00"
+date = "2017-11-02T18:49:58Z"
 image = "/uploads/2017/11/02/Resized_IMG_4101001_7219.jpeg"
 showonlyimage = true
 title = "Heather Halter"
-type = ""
 undefined = []
 
 +++

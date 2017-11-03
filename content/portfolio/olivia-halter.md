@@ -1,9 +1,8 @@
 +++
-date = "2017-11-02T18:49:12+00:00"
+date = "2017-11-02T18:49:12Z"
 image = "/uploads/2017/11/02/Resized_IMG_4098001_6464.jpeg"
 showonlyimage = true
 title = "Olivia Halter"
-type = ""
 undefined = []
 
 +++

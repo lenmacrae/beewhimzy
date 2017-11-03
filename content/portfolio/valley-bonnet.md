@@ -1,9 +1,8 @@
 +++
-date = "2017-11-02T18:43:50+00:00"
+date = "2017-11-02T18:43:50Z"
 image = "/uploads/2017/11/02/IMG_20171020_184012_713.jpg"
 showonlyimage = true
 title = "Valley Bonnet and Lulu LegWarmers"
-type = ""
 undefined = []
 
 +++

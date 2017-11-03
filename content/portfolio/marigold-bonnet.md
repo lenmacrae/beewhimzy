@@ -1,9 +1,8 @@
 +++
-date = "2017-11-02T17:55:53+00:00"
+date = "2017-11-02T17:55:53Z"
 image = "/uploads/2017/11/02/IMG_20171020_194804_238.jpg"
 showonlyimage = true
 title = "Marigold Bonnet"
-type = ""
 undefined = []
 
 +++
